@@ -1,0 +1,8 @@
+.secret.json
+.ipynb
+*/__pycache__/
+logs/*
+logs
+archive/*
+archive/
+archive
